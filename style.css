@@ -450,7 +450,7 @@ img {
   .work__container {
     grid-template-columns: repeat(2, 1fr);
     column-gap: 2rem;
-    padding-top: 2rem;
+    padding: 2rem auto;
   }
   .contact__form {
     width: 360px;
